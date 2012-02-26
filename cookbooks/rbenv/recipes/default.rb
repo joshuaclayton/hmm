@@ -41,7 +41,7 @@ bash "install rbenv" do
   code <<-EOF
     source #{profile_path}
     rbenv install 1.9.3-p125
-    rbenv hashes
+    rbenv rehash
     rbenv global 1.9.3-p125
   EOF
 
