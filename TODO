@@ -1,0 +1,2 @@
+upgrade your Ubuntu to the latest version. Modify /etc/apt/sources.list s/lucid/oneirc/g then run apt-get dist-upgrade test version. Modify /etc/apt/sources.list s/lucid/oneirc/g then run apt-get dist-upgrade.
+http://www.ubuntu.com/download/ubuntu/upgrade - more details here.
